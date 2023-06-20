@@ -20,7 +20,6 @@ requirements:
     - python >=3.6
   run:
     - aiohttp >=3.6.2
-    - certifi >=2018.1.18
     - future >=0.16.0
     - python >=3.6
     - requests >=2.18.4
@@ -36,7 +35,7 @@ test:
     - pip
 
 about:
-  home: http://github.com/tus/tus-py-client/
+  home: https://github.com/tus/tus-py-client/
   summary: A Python client for the tus resumable upload protocol
   license: MIT
   license_file: LICENSE
