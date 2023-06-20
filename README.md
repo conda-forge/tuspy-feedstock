@@ -1,11 +1,11 @@
-About tuspy
-===========
+About tuspy-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tuspy-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/tus/tus-py-client/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tuspy-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python client for the tus resumable upload protocol
 
