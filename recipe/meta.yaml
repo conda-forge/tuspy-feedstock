@@ -1,5 +1,5 @@
 {% set name = "tuspy" %}
-{% set version = "1.0.0" %}
+{% set version = "1.0.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/tuspy-{{ version }}.tar.gz
-  sha256: 09a81eba7b0ce4da7870961721892c62f1d62570913bcef6727ef5599e3f4181
+  sha256: 09a4ef6e20b05c6f83c53c5839892ead141947afb2f6b7dea5cca45f8d120793
 
 build:
   noarch: python
